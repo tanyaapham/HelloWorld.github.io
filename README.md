@@ -4,7 +4,7 @@ Demonstration for Website Building
 ---
 
 Checklist
--this is a list
+- this is a list
 
 To Do List... a different organization 
 - [] this must be done still 
